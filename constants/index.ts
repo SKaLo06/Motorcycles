@@ -54,7 +54,7 @@ export const manufacturers = [
       title: "Socials",
       links: [
         { title: "Linkedin", url: "https://www.linkedin.com/in/taha-salgane-999a1323b/" },
-        { title: "GitHub", url: "https://github.com/SKaLo06" },
+        { title: "GitHub", url: "https://github.com/TahaSalgane" },
         { title: "Instagram", url: "https://www.instagram.com/skalo_o/" },
       ],
     },

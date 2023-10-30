@@ -4,10 +4,8 @@ import Image from 'next/image';
 
 const Hero = () => {
     const handleScroll = () => {
-        // Get the element you want to scroll to (by its ID).
         const sectionToScroll = document.getElementById('motorcyclesSection');
 
-        // Scroll to the section using smooth scrolling.
         if (sectionToScroll) {
             sectionToScroll.scrollIntoView({ behavior: 'smooth' });
         }
