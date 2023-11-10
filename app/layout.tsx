@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { Footer, NavBar } from "@/components";
+import "./globals.css";
 interface Metadata {
   title: string;
   description: string;
